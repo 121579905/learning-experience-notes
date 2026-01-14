@@ -1,16 +1,17 @@
-## What is this?
+# Learning Experience Notes
 
-This repository contains draft notes about learning, thinking, and creativity,
-written in language that students can understand.
+This repository is a place to collect and discuss practical observations about learning,
+especially from the perspective of students.
 
-## Why?
+I’m interested in questions like:
+- Why do students often understand explanations but still feel “stuck”?
+- How can teaching reduce unnecessary cognitive or emotional load?
+- What kinds of explanations help students regain a sense of control?
 
-Many students struggle not because they lack ability,
-but because they feel confused, overwhelmed, or unsure how to proceed.
-These notes try to describe what actually happens in those moments.
+This is not a theory paper and not a finished framework.
+I’m mainly looking for grounded discussion and practical feedback,
+especially from people involved in teaching or learning.
 
-## Collaboration
+Issues and comments are welcome.
 
-If you have experience in teaching or education and would like to help
-improve clarity or correctness, you are very welcome.
 
